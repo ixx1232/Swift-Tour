@@ -1,0 +1,9 @@
+
+platform:ios, '9.0'
+use_frameworks!
+target "swiftTour" do
+pod 'Alamofire', '~>4.4'
+pod 'Kingfisher', '~>3.5'
+
+end
+
